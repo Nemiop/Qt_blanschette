@@ -15,6 +15,7 @@ public:
     MainWindow(QWidget *parent = nullptr);
     ~MainWindow();
 
+    //Hello World from QtCreator
 private:
     Ui::MainWindow *ui;
 };
